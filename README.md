@@ -1,6 +1,4 @@
 # Stroke_Prediction_System
-# Stroke-Prediction-System
-FDM mini project 
 
 # StrokeRisk Pro 🩺
 
